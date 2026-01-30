@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Test files
+*.jpg
+*.png
+*.jpeg
+body.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
