@@ -1,4 +1,4 @@
-# 🎨 Free Image Generation API
+# StableDiff-Edge: Globally Distributed AI Image Gateway
 
 A free, serverless image generation API powered by **Cloudflare Workers AI**. Generate stunning images from text prompts using Stable Diffusion models.
 
